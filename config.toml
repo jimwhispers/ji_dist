@@ -1,3 +1,13 @@
-baseurl = "192.169.177.77"
+baseurl = "localhost:1313"
 languageCode = "es-mx"
 title = "Big long word stuff things"
+theme = "dqya"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+cononifyurls = true
+
+[params]
+    description = "Hyoooo-go"
+    
